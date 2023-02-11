@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "714356860101",
+    "project_id": "georacer-f3502",
+    "storage_bucket": "georacer-f3502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714356860101:android:98b63ee40ab54775113cac",
+        "android_client_info": {
+          "package_name": "com.georacer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714356860101-a03cds37d533ern92j4un40mgi36sdjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georacer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "714356860101-360nrtjkr2muv6qjjq5u3vduqdhdaod2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSR2dfQVH8D4VhqRf3K8RepnQgbHC7nk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714356860101-360nrtjkr2muv6qjjq5u3vduqdhdaod2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
